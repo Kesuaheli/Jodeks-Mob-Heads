@@ -46,6 +46,10 @@
               },
               "conditions": [
                 {
+                  "condition": "reference",
+                  "name": "mobheads:should_head_drop"
+                },
+                {
                   "condition": "minecraft:entity_scores",
                   "entity": "attacker",
                   "scores": {
@@ -67,6 +71,10 @@
                 ]
               },
               "conditions": [
+                {
+                  "condition": "reference",
+                  "name": "mobheads:should_head_drop"
+                },
                 {
                   "condition": "minecraft:entity_scores",
                   "entity": "attacker",
@@ -90,6 +98,10 @@
               },
               "conditions": [
                 {
+                  "condition": "reference",
+                  "name": "mobheads:should_head_drop"
+                },
+                {
                   "condition": "minecraft:entity_scores",
                   "entity": "attacker",
                   "scores": {
@@ -111,6 +123,10 @@
                 ]
               },
               "conditions": [
+                {
+                  "condition": "reference",
+                  "name": "mobheads:should_head_drop"
+                },
                 {
                   "condition": "minecraft:entity_scores",
                   "entity": "attacker",
@@ -134,6 +150,10 @@
               },
               "conditions": [
                 {
+                  "condition": "reference",
+                  "name": "mobheads:should_head_drop"
+                },
+                {
                   "condition": "minecraft:entity_scores",
                   "entity": "attacker",
                   "scores": {
@@ -156,6 +176,10 @@
               },
               "conditions": [
                 {
+                  "condition": "reference",
+                  "name": "mobheads:should_head_drop"
+                },
+                {
                   "condition": "minecraft:entity_scores",
                   "entity": "attacker",
                   "scores": {
@@ -172,6 +196,10 @@
             }
           ],
           "conditions": [
+            {
+              "condition": "reference",
+              "name": "mobheads:should_head_drop"
+            },
             {
               "condition": "minecraft:entity_properties",
               "entity": "this",
@@ -242,6 +270,10 @@
               },
               "conditions": [
                 {
+                  "condition": "reference",
+                  "name": "mobheads:should_head_drop"
+                },
+                {
                   "condition": "minecraft:entity_scores",
                   "entity": "attacker",
                   "scores": {
@@ -263,6 +295,10 @@
                 ]
               },
               "conditions": [
+                {
+                  "condition": "reference",
+                  "name": "mobheads:should_head_drop"
+                },
                 {
                   "condition": "minecraft:entity_scores",
                   "entity": "attacker",
@@ -286,6 +322,10 @@
               },
               "conditions": [
                 {
+                  "condition": "reference",
+                  "name": "mobheads:should_head_drop"
+                },
+                {
                   "condition": "minecraft:entity_scores",
                   "entity": "attacker",
                   "scores": {
@@ -307,6 +347,10 @@
                 ]
               },
               "conditions": [
+                {
+                  "condition": "reference",
+                  "name": "mobheads:should_head_drop"
+                },
                 {
                   "condition": "minecraft:entity_scores",
                   "entity": "attacker",
@@ -330,6 +374,10 @@
               },
               "conditions": [
                 {
+                  "condition": "reference",
+                  "name": "mobheads:should_head_drop"
+                },
+                {
                   "condition": "minecraft:entity_scores",
                   "entity": "attacker",
                   "scores": {
@@ -352,6 +400,10 @@
               },
               "conditions": [
                 {
+                  "condition": "reference",
+                  "name": "mobheads:should_head_drop"
+                },
+                {
                   "condition": "minecraft:entity_scores",
                   "entity": "attacker",
                   "scores": {
@@ -368,6 +420,10 @@
             }
           ],
           "conditions": [
+            {
+              "condition": "reference",
+              "name": "mobheads:should_head_drop"
+            },
             {
               "condition": "minecraft:entity_properties",
               "entity": "this",
@@ -438,6 +494,10 @@
               },
               "conditions": [
                 {
+                  "condition": "reference",
+                  "name": "mobheads:should_head_drop"
+                },
+                {
                   "condition": "minecraft:entity_scores",
                   "entity": "attacker",
                   "scores": {
@@ -459,6 +519,10 @@
                 ]
               },
               "conditions": [
+                {
+                  "condition": "reference",
+                  "name": "mobheads:should_head_drop"
+                },
                 {
                   "condition": "minecraft:entity_scores",
                   "entity": "attacker",
@@ -482,6 +546,10 @@
               },
               "conditions": [
                 {
+                  "condition": "reference",
+                  "name": "mobheads:should_head_drop"
+                },
+                {
                   "condition": "minecraft:entity_scores",
                   "entity": "attacker",
                   "scores": {
@@ -503,6 +571,10 @@
                 ]
               },
               "conditions": [
+                {
+                  "condition": "reference",
+                  "name": "mobheads:should_head_drop"
+                },
                 {
                   "condition": "minecraft:entity_scores",
                   "entity": "attacker",
@@ -526,6 +598,10 @@
               },
               "conditions": [
                 {
+                  "condition": "reference",
+                  "name": "mobheads:should_head_drop"
+                },
+                {
                   "condition": "minecraft:entity_scores",
                   "entity": "attacker",
                   "scores": {
@@ -548,6 +624,10 @@
               },
               "conditions": [
                 {
+                  "condition": "reference",
+                  "name": "mobheads:should_head_drop"
+                },
+                {
                   "condition": "minecraft:entity_scores",
                   "entity": "attacker",
                   "scores": {
@@ -564,6 +644,10 @@
             }
           ],
           "conditions": [
+            {
+              "condition": "reference",
+              "name": "mobheads:should_head_drop"
+            },
             {
               "condition": "minecraft:random_chance",
               "chance": {
@@ -634,6 +718,10 @@
               },
               "conditions": [
                 {
+                  "condition": "reference",
+                  "name": "mobheads:should_head_drop"
+                },
+                {
                   "condition": "minecraft:entity_scores",
                   "entity": "attacker",
                   "scores": {
@@ -655,6 +743,10 @@
                 ]
               },
               "conditions": [
+                {
+                  "condition": "reference",
+                  "name": "mobheads:should_head_drop"
+                },
                 {
                   "condition": "minecraft:entity_scores",
                   "entity": "attacker",
@@ -678,6 +770,10 @@
               },
               "conditions": [
                 {
+                  "condition": "reference",
+                  "name": "mobheads:should_head_drop"
+                },
+                {
                   "condition": "minecraft:entity_scores",
                   "entity": "attacker",
                   "scores": {
@@ -699,6 +795,10 @@
                 ]
               },
               "conditions": [
+                {
+                  "condition": "reference",
+                  "name": "mobheads:should_head_drop"
+                },
                 {
                   "condition": "minecraft:entity_scores",
                   "entity": "attacker",
@@ -722,6 +822,10 @@
               },
               "conditions": [
                 {
+                  "condition": "reference",
+                  "name": "mobheads:should_head_drop"
+                },
+                {
                   "condition": "minecraft:entity_scores",
                   "entity": "attacker",
                   "scores": {
@@ -744,6 +848,10 @@
               },
               "conditions": [
                 {
+                  "condition": "reference",
+                  "name": "mobheads:should_head_drop"
+                },
+                {
                   "condition": "minecraft:entity_scores",
                   "entity": "attacker",
                   "scores": {
@@ -760,6 +868,10 @@
             }
           ],
           "conditions": [
+            {
+              "condition": "reference",
+              "name": "mobheads:should_head_drop"
+            },
             {
               "condition": "minecraft:random_chance",
               "chance": {
@@ -830,6 +942,10 @@
               },
               "conditions": [
                 {
+                  "condition": "reference",
+                  "name": "mobheads:should_head_drop"
+                },
+                {
                   "condition": "minecraft:entity_scores",
                   "entity": "attacker",
                   "scores": {
@@ -851,6 +967,10 @@
                 ]
               },
               "conditions": [
+                {
+                  "condition": "reference",
+                  "name": "mobheads:should_head_drop"
+                },
                 {
                   "condition": "minecraft:entity_scores",
                   "entity": "attacker",
@@ -874,6 +994,10 @@
               },
               "conditions": [
                 {
+                  "condition": "reference",
+                  "name": "mobheads:should_head_drop"
+                },
+                {
                   "condition": "minecraft:entity_scores",
                   "entity": "attacker",
                   "scores": {
@@ -895,6 +1019,10 @@
                 ]
               },
               "conditions": [
+                {
+                  "condition": "reference",
+                  "name": "mobheads:should_head_drop"
+                },
                 {
                   "condition": "minecraft:entity_scores",
                   "entity": "attacker",
@@ -918,6 +1046,10 @@
               },
               "conditions": [
                 {
+                  "condition": "reference",
+                  "name": "mobheads:should_head_drop"
+                },
+                {
                   "condition": "minecraft:entity_scores",
                   "entity": "attacker",
                   "scores": {
@@ -940,6 +1072,10 @@
               },
               "conditions": [
                 {
+                  "condition": "reference",
+                  "name": "mobheads:should_head_drop"
+                },
+                {
                   "condition": "minecraft:entity_scores",
                   "entity": "attacker",
                   "scores": {
@@ -956,6 +1092,10 @@
             }
           ],
           "conditions": [
+            {
+              "condition": "reference",
+              "name": "mobheads:should_head_drop"
+            },
             {
               "condition": "minecraft:random_chance",
               "chance": {
@@ -1026,6 +1166,10 @@
               },
               "conditions": [
                 {
+                  "condition": "reference",
+                  "name": "mobheads:should_head_drop"
+                },
+                {
                   "condition": "minecraft:entity_scores",
                   "entity": "attacker",
                   "scores": {
@@ -1047,6 +1191,10 @@
                 ]
               },
               "conditions": [
+                {
+                  "condition": "reference",
+                  "name": "mobheads:should_head_drop"
+                },
                 {
                   "condition": "minecraft:entity_scores",
                   "entity": "attacker",
@@ -1070,6 +1218,10 @@
               },
               "conditions": [
                 {
+                  "condition": "reference",
+                  "name": "mobheads:should_head_drop"
+                },
+                {
                   "condition": "minecraft:entity_scores",
                   "entity": "attacker",
                   "scores": {
@@ -1091,6 +1243,10 @@
                 ]
               },
               "conditions": [
+                {
+                  "condition": "reference",
+                  "name": "mobheads:should_head_drop"
+                },
                 {
                   "condition": "minecraft:entity_scores",
                   "entity": "attacker",
@@ -1114,6 +1270,10 @@
               },
               "conditions": [
                 {
+                  "condition": "reference",
+                  "name": "mobheads:should_head_drop"
+                },
+                {
                   "condition": "minecraft:entity_scores",
                   "entity": "attacker",
                   "scores": {
@@ -1136,6 +1296,10 @@
               },
               "conditions": [
                 {
+                  "condition": "reference",
+                  "name": "mobheads:should_head_drop"
+                },
+                {
                   "condition": "minecraft:entity_scores",
                   "entity": "attacker",
                   "scores": {
@@ -1152,6 +1316,10 @@
             }
           ],
           "conditions": [
+            {
+              "condition": "reference",
+              "name": "mobheads:should_head_drop"
+            },
             {
               "condition": "minecraft:random_chance",
               "chance": {
@@ -1222,6 +1390,10 @@
               },
               "conditions": [
                 {
+                  "condition": "reference",
+                  "name": "mobheads:should_head_drop"
+                },
+                {
                   "condition": "minecraft:entity_scores",
                   "entity": "attacker",
                   "scores": {
@@ -1243,6 +1415,10 @@
                 ]
               },
               "conditions": [
+                {
+                  "condition": "reference",
+                  "name": "mobheads:should_head_drop"
+                },
                 {
                   "condition": "minecraft:entity_scores",
                   "entity": "attacker",
@@ -1266,6 +1442,10 @@
               },
               "conditions": [
                 {
+                  "condition": "reference",
+                  "name": "mobheads:should_head_drop"
+                },
+                {
                   "condition": "minecraft:entity_scores",
                   "entity": "attacker",
                   "scores": {
@@ -1287,6 +1467,10 @@
                 ]
               },
               "conditions": [
+                {
+                  "condition": "reference",
+                  "name": "mobheads:should_head_drop"
+                },
                 {
                   "condition": "minecraft:entity_scores",
                   "entity": "attacker",
@@ -1310,6 +1494,10 @@
               },
               "conditions": [
                 {
+                  "condition": "reference",
+                  "name": "mobheads:should_head_drop"
+                },
+                {
                   "condition": "minecraft:entity_scores",
                   "entity": "attacker",
                   "scores": {
@@ -1332,6 +1520,10 @@
               },
               "conditions": [
                 {
+                  "condition": "reference",
+                  "name": "mobheads:should_head_drop"
+                },
+                {
                   "condition": "minecraft:entity_scores",
                   "entity": "attacker",
                   "scores": {
@@ -1348,6 +1540,10 @@
             }
           ],
           "conditions": [
+            {
+              "condition": "reference",
+              "name": "mobheads:should_head_drop"
+            },
             {
               "condition": "minecraft:random_chance",
               "chance": {
@@ -1418,6 +1614,10 @@
               },
               "conditions": [
                 {
+                  "condition": "reference",
+                  "name": "mobheads:should_head_drop"
+                },
+                {
                   "condition": "minecraft:entity_scores",
                   "entity": "attacker",
                   "scores": {
@@ -1439,6 +1639,10 @@
                 ]
               },
               "conditions": [
+                {
+                  "condition": "reference",
+                  "name": "mobheads:should_head_drop"
+                },
                 {
                   "condition": "minecraft:entity_scores",
                   "entity": "attacker",
@@ -1462,6 +1666,10 @@
               },
               "conditions": [
                 {
+                  "condition": "reference",
+                  "name": "mobheads:should_head_drop"
+                },
+                {
                   "condition": "minecraft:entity_scores",
                   "entity": "attacker",
                   "scores": {
@@ -1483,6 +1691,10 @@
                 ]
               },
               "conditions": [
+                {
+                  "condition": "reference",
+                  "name": "mobheads:should_head_drop"
+                },
                 {
                   "condition": "minecraft:entity_scores",
                   "entity": "attacker",
@@ -1506,6 +1718,10 @@
               },
               "conditions": [
                 {
+                  "condition": "reference",
+                  "name": "mobheads:should_head_drop"
+                },
+                {
                   "condition": "minecraft:entity_scores",
                   "entity": "attacker",
                   "scores": {
@@ -1528,6 +1744,10 @@
               },
               "conditions": [
                 {
+                  "condition": "reference",
+                  "name": "mobheads:should_head_drop"
+                },
+                {
                   "condition": "minecraft:entity_scores",
                   "entity": "attacker",
                   "scores": {
@@ -1544,6 +1764,10 @@
             }
           ],
           "conditions": [
+            {
+              "condition": "reference",
+              "name": "mobheads:should_head_drop"
+            },
             {
               "condition": "minecraft:random_chance",
               "chance": {
@@ -1614,6 +1838,10 @@
               },
               "conditions": [
                 {
+                  "condition": "reference",
+                  "name": "mobheads:should_head_drop"
+                },
+                {
                   "condition": "minecraft:entity_scores",
                   "entity": "attacker",
                   "scores": {
@@ -1635,6 +1863,10 @@
                 ]
               },
               "conditions": [
+                {
+                  "condition": "reference",
+                  "name": "mobheads:should_head_drop"
+                },
                 {
                   "condition": "minecraft:entity_scores",
                   "entity": "attacker",
@@ -1658,6 +1890,10 @@
               },
               "conditions": [
                 {
+                  "condition": "reference",
+                  "name": "mobheads:should_head_drop"
+                },
+                {
                   "condition": "minecraft:entity_scores",
                   "entity": "attacker",
                   "scores": {
@@ -1679,6 +1915,10 @@
                 ]
               },
               "conditions": [
+                {
+                  "condition": "reference",
+                  "name": "mobheads:should_head_drop"
+                },
                 {
                   "condition": "minecraft:entity_scores",
                   "entity": "attacker",
@@ -1702,6 +1942,10 @@
               },
               "conditions": [
                 {
+                  "condition": "reference",
+                  "name": "mobheads:should_head_drop"
+                },
+                {
                   "condition": "minecraft:entity_scores",
                   "entity": "attacker",
                   "scores": {
@@ -1724,6 +1968,10 @@
               },
               "conditions": [
                 {
+                  "condition": "reference",
+                  "name": "mobheads:should_head_drop"
+                },
+                {
                   "condition": "minecraft:entity_scores",
                   "entity": "attacker",
                   "scores": {
@@ -1740,6 +1988,10 @@
             }
           ],
           "conditions": [
+            {
+              "condition": "reference",
+              "name": "mobheads:should_head_drop"
+            },
             {
               "condition": "minecraft:random_chance",
               "chance": {
