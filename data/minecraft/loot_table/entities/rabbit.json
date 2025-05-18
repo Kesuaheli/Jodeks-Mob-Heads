@@ -282,10 +282,10 @@
               ]
             },
             {
-            "function": "minecraft:set_components",
-            "components": {
-            "minecraft:note_block_sound": "minecraft:entity.rabbit.ambient"
-            }
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:note_block_sound": "minecraft:entity.rabbit.ambient"
+              }
             }
           ],
           "conditions": [
@@ -478,10 +478,10 @@
               ]
             },
             {
-            "function": "minecraft:set_components",
-            "components": {
-            "minecraft:note_block_sound": "minecraft:entity.rabbit.ambient"
-            }
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:note_block_sound": "minecraft:entity.rabbit.ambient"
+              }
             }
           ],
           "conditions": [
@@ -674,10 +674,10 @@
               ]
             },
             {
-            "function": "minecraft:set_components",
-            "components": {
-            "minecraft:note_block_sound": "minecraft:entity.rabbit.ambient"
-            }
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:note_block_sound": "minecraft:entity.rabbit.ambient"
+              }
             }
           ],
           "conditions": [
@@ -870,10 +870,10 @@
               ]
             },
             {
-            "function": "minecraft:set_components",
-            "components": {
-            "minecraft:note_block_sound": "minecraft:entity.rabbit.ambient"
-            }
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:note_block_sound": "minecraft:entity.rabbit.ambient"
+              }
             }
           ],
           "conditions": [
@@ -1066,10 +1066,10 @@
               ]
             },
             {
-            "function": "minecraft:set_components",
-            "components": {
-            "minecraft:note_block_sound": "minecraft:entity.rabbit.ambient"
-            }
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:note_block_sound": "minecraft:entity.rabbit.ambient"
+              }
             }
           ],
           "conditions": [
@@ -1262,10 +1262,10 @@
               ]
             },
             {
-            "function": "minecraft:set_components",
-            "components": {
-            "minecraft:note_block_sound": "minecraft:entity.rabbit.ambient"
-            }
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:note_block_sound": "minecraft:entity.rabbit.ambient"
+              }
             }
           ],
           "conditions": [
@@ -1458,10 +1458,10 @@
               ]
             },
             {
-            "function": "minecraft:set_components",
-            "components": {
-            "minecraft:note_block_sound": "minecraft:entity.rabbit.ambient"
-            }
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:note_block_sound": "minecraft:entity.rabbit.ambient"
+              }
             }
           ],
           "conditions": [

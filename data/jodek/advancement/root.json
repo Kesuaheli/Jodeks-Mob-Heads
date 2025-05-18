@@ -23,18 +23,18 @@
     "description": [
       "",
       {
-          "text": "Creator of vanilla friendly datapacks\n",
-          "color": "white"
+        "text": "Creator of vanilla friendly datapacks\n",
+        "color": "white"
       },
       {
         "text": "\n",
         "color": "white"
       },
       {
-          "text": "modrinth.com/user/Jodek",
-          "color": "dark_purple"
+        "text": "modrinth.com/user/Jodek",
+        "color": "dark_purple"
       }
-  ],
+    ],
     "background": "minecraft:textures/block/flowering_azalea_leaves.png",
     "frame": "challenge",
     "show_toast": false,
@@ -46,5 +46,3 @@
     }
   }
 }
-
-

@@ -165,10 +165,10 @@
               ]
             },
             {
-            "function": "minecraft:set_components",
-            "components": {
-            "minecraft:note_block_sound": "minecraft:entity.wolf.ambient"
-            }
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:note_block_sound": "minecraft:entity.wolf.ambient"
+              }
             }
           ],
           "conditions": [
@@ -361,10 +361,10 @@
               ]
             },
             {
-            "function": "minecraft:set_components",
-            "components": {
-            "minecraft:note_block_sound": "minecraft:entity.wolf.ambient"
-            }
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:note_block_sound": "minecraft:entity.wolf.ambient"
+              }
             }
           ],
           "conditions": [
@@ -557,10 +557,10 @@
               ]
             },
             {
-            "function": "minecraft:set_components",
-            "components": {
-            "minecraft:note_block_sound": "minecraft:entity.wolf.ambient"
-            }
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:note_block_sound": "minecraft:entity.wolf.ambient"
+              }
             }
           ],
           "conditions": [
@@ -753,10 +753,10 @@
               ]
             },
             {
-            "function": "minecraft:set_components",
-            "components": {
-            "minecraft:note_block_sound": "minecraft:entity.wolf.ambient"
-            }
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:note_block_sound": "minecraft:entity.wolf.ambient"
+              }
             }
           ],
           "conditions": [
@@ -949,10 +949,10 @@
               ]
             },
             {
-            "function": "minecraft:set_components",
-            "components": {
-            "minecraft:note_block_sound": "minecraft:entity.wolf.ambient"
-            }
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:note_block_sound": "minecraft:entity.wolf.ambient"
+              }
             }
           ],
           "conditions": [
@@ -1145,10 +1145,10 @@
               ]
             },
             {
-            "function": "minecraft:set_components",
-            "components": {
-            "minecraft:note_block_sound": "minecraft:entity.wolf.ambient"
-            }
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:note_block_sound": "minecraft:entity.wolf.ambient"
+              }
             }
           ],
           "conditions": [
@@ -1341,10 +1341,10 @@
               ]
             },
             {
-            "function": "minecraft:set_components",
-            "components": {
-            "minecraft:note_block_sound": "minecraft:entity.wolf.ambient"
-            }
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:note_block_sound": "minecraft:entity.wolf.ambient"
+              }
             }
           ],
           "conditions": [
@@ -1537,10 +1537,10 @@
               ]
             },
             {
-            "function": "minecraft:set_components",
-            "components": {
-            "minecraft:note_block_sound": "minecraft:entity.wolf.ambient"
-            }
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:note_block_sound": "minecraft:entity.wolf.ambient"
+              }
             }
           ],
           "conditions": [
@@ -1733,10 +1733,10 @@
               ]
             },
             {
-            "function": "minecraft:set_components",
-            "components": {
-            "minecraft:note_block_sound": "minecraft:entity.wolf.ambient"
-            }
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:note_block_sound": "minecraft:entity.wolf.ambient"
+              }
             }
           ],
           "conditions": [

@@ -165,10 +165,10 @@
               ]
             },
             {
-            "function": "minecraft:set_components",
-            "components": {
-            "minecraft:note_block_sound": "minecraft:entity.wither.ambient"
-            }
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:note_block_sound": "minecraft:entity.wither.ambient"
+              }
             }
           ],
           "conditions": [
@@ -351,10 +351,10 @@
               ]
             },
             {
-            "function": "minecraft:set_components",
-            "components": {
-            "minecraft:note_block_sound": "minecraft:entity.wither.spawn"
-            }
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:note_block_sound": "minecraft:entity.wither.spawn"
+              }
             }
           ],
           "conditions": [

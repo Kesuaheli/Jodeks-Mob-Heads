@@ -207,10 +207,10 @@
               ]
             },
             {
-            "function": "minecraft:set_components",
-            "components": {
-            "minecraft:note_block_sound": "minecraft:entity.iron_golem.hurt"
-            }
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:note_block_sound": "minecraft:entity.iron_golem.hurt"
+              }
             }
           ],
           "conditions": [

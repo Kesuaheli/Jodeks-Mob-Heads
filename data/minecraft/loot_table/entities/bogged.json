@@ -270,7 +270,7 @@
                 "minecraft:note_block_sound": "minecraft:entity.bogged.ambient"
               }
             }
-            
+
           ],
           "conditions": [
             {

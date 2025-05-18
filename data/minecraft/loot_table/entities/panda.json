@@ -182,10 +182,10 @@
               ]
             },
             {
-            "function": "minecraft:set_components",
-            "components": {
-            "minecraft:note_block_sound": "minecraft:entity.panda.ambient"
-            }
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:note_block_sound": "minecraft:entity.panda.ambient"
+              }
             }
           ],
           "conditions": [
@@ -375,10 +375,10 @@
               ]
             },
             {
-            "function": "minecraft:set_components",
-            "components": {
-            "minecraft:note_block_sound": "minecraft:entity.panda.ambient"
-            }
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:note_block_sound": "minecraft:entity.panda.ambient"
+              }
             }
           ],
           "conditions": [
@@ -568,10 +568,10 @@
               ]
             },
             {
-            "function": "minecraft:set_components",
-            "components": {
-            "minecraft:note_block_sound": "minecraft:entity.panda.ambient"
-            }
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:note_block_sound": "minecraft:entity.panda.ambient"
+              }
             }
           ],
           "conditions": [
@@ -761,10 +761,10 @@
               ]
             },
             {
-            "function": "minecraft:set_components",
-            "components": {
-            "minecraft:note_block_sound": "minecraft:entity.panda.ambient"
-            }
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:note_block_sound": "minecraft:entity.panda.ambient"
+              }
             }
           ],
           "conditions": [
@@ -954,10 +954,10 @@
               ]
             },
             {
-            "function": "minecraft:set_components",
-            "components": {
-            "minecraft:note_block_sound": "minecraft:entity.panda.ambient"
-            }
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:note_block_sound": "minecraft:entity.panda.ambient"
+              }
             }
           ],
           "conditions": [
@@ -1147,10 +1147,10 @@
               ]
             },
             {
-            "function": "minecraft:set_components",
-            "components": {
-            "minecraft:note_block_sound": "minecraft:entity.panda.ambient"
-            }
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:note_block_sound": "minecraft:entity.panda.ambient"
+              }
             }
           ],
           "conditions": [
@@ -1215,7 +1215,7 @@
                 "italic": false,
                 "extra": [
                   {
-                    "text": " Head (Weak)" 
+                    "text": " Head (Weak)"
                   }
                 ]
               },
@@ -1340,10 +1340,10 @@
               ]
             },
             {
-            "function": "minecraft:set_components",
-            "components": {
-            "minecraft:note_block_sound": "minecraft:entity.panda.ambient"
-            }
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:note_block_sound": "minecraft:entity.panda.ambient"
+              }
             }
           ],
           "conditions": [

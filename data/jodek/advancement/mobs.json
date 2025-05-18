@@ -5,20 +5,20 @@
         },
         "title": "Mobs                                                                         ",
         "description": [
-          "",
-          {
-              "text": "Mobs collection of my datapacks\n",
-              "color": "white"
-          },
-          {
-            "text": "\n",
-            "color": "white"
-          },
-          {
-              "text": "modrinth.com/collection/7IrgVqoQ",
-              "color": "dark_purple"
-          }
-      ],
+            "",
+            {
+                "text": "Mobs collection of my datapacks\n",
+                "color": "white"
+            },
+            {
+                "text": "\n",
+                "color": "white"
+            },
+            {
+                "text": "modrinth.com/collection/7IrgVqoQ",
+                "color": "dark_purple"
+            }
+        ],
         "frame": "goal",
         "show_toast": false,
         "announce_to_chat": false
@@ -29,4 +29,4 @@
             "trigger": "minecraft:tick"
         }
     }
-  }
+}
