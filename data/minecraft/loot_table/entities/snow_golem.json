@@ -186,10 +186,10 @@
               ]
             },
             {
-            "function": "minecraft:set_components",
-            "components": {
-            "minecraft:note_block_sound": "minecraft:entity.snow_golem.hurt"
-            }
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:note_block_sound": "minecraft:entity.snow_golem.hurt"
+              }
             }
           ],
           "conditions": [

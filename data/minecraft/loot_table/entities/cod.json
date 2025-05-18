@@ -231,7 +231,7 @@
             {
               "function": "minecraft:set_components",
               "components": {
-                "minecraft:note_block_sound": "minecraft:entity.cod.flop" 
+                "minecraft:note_block_sound": "minecraft:entity.cod.flop"
               }
             }
           ],

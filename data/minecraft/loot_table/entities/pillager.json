@@ -85,7 +85,7 @@
             {
               "function": "minecraft:set_components",
               "components": {
-              "minecraft:note_block_sound": "minecraft:entity.pillager.ambient"
+                "minecraft:note_block_sound": "minecraft:entity.pillager.ambient"
               }
             }
           ],

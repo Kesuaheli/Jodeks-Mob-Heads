@@ -167,7 +167,7 @@
             {
               "function": "minecraft:set_components",
               "components": {
-              "minecraft:note_block_sound": "minecraft:entity.frog.ambient"
+                "minecraft:note_block_sound": "minecraft:entity.frog.ambient"
               }
             }
           ],
@@ -363,7 +363,7 @@
             {
               "function": "minecraft:set_components",
               "components": {
-              "minecraft:note_block_sound": "minecraft:entity.frog.ambient"
+                "minecraft:note_block_sound": "minecraft:entity.frog.ambient"
               }
             }
           ],
@@ -559,7 +559,7 @@
             {
               "function": "minecraft:set_components",
               "components": {
-              "minecraft:note_block_sound": "minecraft:entity.frog.ambient"
+                "minecraft:note_block_sound": "minecraft:entity.frog.ambient"
               }
             }
           ],

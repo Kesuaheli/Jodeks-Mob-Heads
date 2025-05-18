@@ -22,7 +22,7 @@
                     1527597935,
                     -1330465382,
                     2076287963
-                ],
+                  ],
                   "properties": [
                     {
                       "name": "textures",
@@ -165,10 +165,10 @@
               ]
             },
             {
-            "function": "minecraft:set_components",
-            "components": {
-            "minecraft:note_block_sound": "minecraft:entity.creaking.ambient"
-            }
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:note_block_sound": "minecraft:entity.creaking.ambient"
+              }
             }
           ],
           "conditions": [
