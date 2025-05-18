@@ -5,6 +5,10 @@
       "bonus_rolls": 0.0,
       "conditions": [
         {
+          "condition": "reference",
+          "name": "mobheads:should_head_drop"
+        },
+        {
           "condition": "minecraft:entity_properties",
           "entity": "this",
           "predicate": {
@@ -90,6 +94,10 @@
             }
           ],
           "conditions": [
+            {
+              "condition": "reference",
+              "name": "mobheads:should_head_drop"
+            },
             {
               "condition": "minecraft:random_chance",
               "chance": {
