@@ -188,9 +188,8 @@
               "condition": "minecraft:entity_properties",
               "entity": "this",
               "predicate": {
-                "type_specific": {
-                  "type": "minecraft:axolotl",
-                  "variant": "blue"
+                "components": {
+                  "minecraft:axolotl/variant": "blue"
                 }
               }
             },
@@ -388,9 +387,8 @@
               "condition": "minecraft:entity_properties",
               "entity": "this",
               "predicate": {
-                "type_specific": {
-                  "type": "minecraft:axolotl",
-                  "variant": "cyan"
+                "components": {
+                  "minecraft:axolotl/variant": "cyan"
                 }
               }
             },
@@ -588,9 +586,8 @@
               "condition": "minecraft:entity_properties",
               "entity": "this",
               "predicate": {
-                "type_specific": {
-                  "type": "minecraft:axolotl",
-                  "variant": "gold"
+                "components": {
+                  "minecraft:axolotl/variant": "gold"
                 }
               }
             },
@@ -788,9 +785,8 @@
               "condition": "minecraft:entity_properties",
               "entity": "this",
               "predicate": {
-                "type_specific": {
-                  "type": "minecraft:axolotl",
-                  "variant": "wild"
+                "components": {
+                  "minecraft:axolotl/variant": "wild"
                 }
               }
             },
@@ -988,9 +984,8 @@
               "condition": "minecraft:entity_properties",
               "entity": "this",
               "predicate": {
-                "type_specific": {
-                  "type": "minecraft:axolotl",
-                  "variant": "lucy"
+                "components": {
+                  "minecraft:axolotl/variant": "lucy"
                 }
               }
             },

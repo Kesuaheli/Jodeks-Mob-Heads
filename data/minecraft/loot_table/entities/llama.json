@@ -218,9 +218,8 @@
               "condition": "minecraft:entity_properties",
               "entity": "this",
               "predicate": {
-                "type_specific": {
-                  "type": "minecraft:llama",
-                  "variant": "brown"
+                "components": {
+                  "minecraft:llama/variant": "brown"
                 }
               }
             },
@@ -418,9 +417,8 @@
               "condition": "minecraft:entity_properties",
               "entity": "this",
               "predicate": {
-                "type_specific": {
-                  "type": "minecraft:llama",
-                  "variant": "gray"
+                "components": {
+                  "minecraft:llama/variant": "gray"
                 }
               }
             },
@@ -618,9 +616,8 @@
               "condition": "minecraft:entity_properties",
               "entity": "this",
               "predicate": {
-                "type_specific": {
-                  "type": "minecraft:llama",
-                  "variant": "creamy"
+                "components": {
+                  "minecraft:llama/variant": "creamy"
                 }
               }
             },
@@ -818,9 +815,8 @@
               "condition": "minecraft:entity_properties",
               "entity": "this",
               "predicate": {
-                "type_specific": {
-                  "type": "minecraft:llama",
-                  "variant": "white"
+                "components": {
+                  "minecraft:llama/variant": "white"
                 }
               }
             },
