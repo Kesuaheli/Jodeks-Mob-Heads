@@ -5,10 +5,6 @@
       "bonus_rolls": 0.0,
       "conditions": [
         {
-          "condition": "reference",
-          "name": "mobheads:should_head_drop"
-        },
-        {
           "condition": "minecraft:random_chance_with_enchanted_bonus",
           "enchanted_chance": {
             "type": "minecraft:linear",

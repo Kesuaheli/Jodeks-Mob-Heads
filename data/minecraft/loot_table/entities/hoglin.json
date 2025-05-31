@@ -19,10 +19,6 @@
             {
               "conditions": [
                 {
-                  "condition": "reference",
-                  "name": "mobheads:should_head_drop"
-                },
-                {
                   "condition": "minecraft:any_of",
                   "terms": [
                     {
