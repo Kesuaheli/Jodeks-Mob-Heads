@@ -8,7 +8,6 @@ execute as @a if score @s help.mobheads matches 1 run function mobheads:app/help
 
 scoreboard players enable @a mobheads.config
 execute as @a if score @s mobheads.config matches 1 run \
- function mobheads:app/triggers/mobheads.config with storage mobheads:config
-execute as @a if score @s mobheads.config matches 1.. run \ 
+  function mobheads:app/triggers/mobheads.config with storage mobheads:config
+execute as @a if score @s mobheads.config matches 1.. run \
   scoreboard players set @a mobheads.config 0
-

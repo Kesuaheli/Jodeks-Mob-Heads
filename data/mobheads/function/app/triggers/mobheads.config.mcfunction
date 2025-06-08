@@ -1,6 +1,6 @@
 scoreboard players set @a mobheads.config 0
 
-$tellraw @s \ 
+$tellraw @s \
 [\
   "\n",\
   {\
